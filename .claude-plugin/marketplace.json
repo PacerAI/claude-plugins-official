@@ -19,7 +19,7 @@
         "url": "https://github.com/42Crunch-AI/claude-plugins.git",
         "path": "plugins/api-security-testing",
         "ref": "v1.0.1",
-        "sha": "faf5305385de8afed9468904e8639be737aff39e"
+        "sha": "30287f5e3f122a646d1ac5ca3ab96e130c52a3ad"
       },
       "homepage": "https://42crunch.com"
     },
@@ -35,7 +35,7 @@
         "url": "https://github.com/adobe/skills.git",
         "path": "plugins/creative-cloud/adobe-for-creativity",
         "ref": "main",
-        "sha": "9ca1da262869ca2fb5f6c3daae2f7eeb648c937d"
+        "sha": "32b0bb2c01157ad7c7e69575069a6b421f72beeb"
       },
       "homepage": "https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity"
     },
@@ -57,7 +57,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/SalesforceAIResearch/agentforce-adlc.git",
-        "sha": "d645d2c8ce0689a568224436061872ab9f0ab179"
+        "sha": "d16d14ac7f817336e21bf9392cf51b6cac6194d8"
       },
       "homepage": "https://github.com/SalesforceAIResearch/agentforce-adlc"
     },
@@ -67,7 +67,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/endorlabs/ai-plugins.git",
-        "sha": "975f0ce422b1f2677681ffd085aef34ea1826b70"
+        "sha": "2de00883bd2be8b8578b46ab09baf2c8731376de"
       },
       "homepage": "https://www.endorlabs.com"
     },
@@ -77,7 +77,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/AikidoSec/aikido-claude-plugin.git",
-        "sha": "79ac524f87c9faa9a356ff3d495b8a5b77e01bbd"
+        "sha": "1353c9d54b387f259f0c04f0ed3408842203c29e"
       },
       "homepage": "https://github.com/AikidoSec/aikido-claude-plugin"
     },
@@ -93,7 +93,7 @@
         "url": "https://github.com/Airtable/skills.git",
         "path": "plugins/airtable",
         "ref": "main",
-        "sha": "aaeb4f3ec8d462d694a13fe5c3d249c291bf8899"
+        "sha": "812ee67f1fd3d76fb45ff8df40afaa0448602ba8"
       },
       "homepage": "https://www.airtable.com"
     },
@@ -107,7 +107,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/alloydb.git",
-        "sha": "4a75653275b095fcacf1508796b0fee8cc758c07"
+        "sha": "00ee6ce2bcf88b46da4bf298a3ad8c0ad85877c8"
       },
       "homepage": "https://cloud.google.com/alloydb"
     },
@@ -120,7 +120,7 @@
         "url": "https://github.com/awslabs/agent-plugins.git",
         "path": "plugins/amazon-location-service",
         "ref": "main",
-        "sha": "95381e8bcb92f58a28edb4f83eb7e163c7461a0a"
+        "sha": "adc01133bbd01433dcb2c0f98641f2b85694f92f"
       },
       "homepage": "https://github.com/awslabs/agent-plugins"
     },
@@ -131,7 +131,7 @@
         "url": "https://github.com/amplitude/mcp-marketplace.git",
         "path": "plugins/amplitude",
         "ref": "main",
-        "sha": "e9b4e15193666e1b513b5652ded23fab160bdc4e"
+        "sha": "2d3074021410fcb8a6d9c6833bd054f2ce228ed5"
       },
       "description": "Use Amplitude as an expert analyst — instrument Amplitude, discover product opportunities, analyze charts, create dashboards, manage experiments, and understand users and accounts.",
       "category": "monitoring",
@@ -147,7 +147,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/apolloio/apollo-mcp-plugin.git",
-        "sha": "79577f9361c8b0d89e9fa36a1511bd4b37375f40"
+        "sha": "2adde980e45f421b7e9383d92870455627936bce"
       },
       "homepage": "https://www.apollo.io/"
     },
@@ -165,7 +165,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/astronomer/agents.git",
-        "sha": "535a040ca9e27aaed6da13f0f959625fb3294820"
+        "sha": "dbd9bb79c4f7b7ac9c1cdd2b4b75213c81f423e5"
       },
       "homepage": "https://github.com/astronomer/agents"
     },
@@ -175,7 +175,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/atlanhq/agent-toolkit.git",
-        "sha": "790398c87378f128bdc74c31bb7ecfb8e4695f29"
+        "sha": "86bb1ad27f80e189b328333d2271b360ae579f2b"
       },
       "homepage": "https://docs.atlan.com/"
     },
@@ -186,7 +186,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/atlassian/atlassian-mcp-server.git",
-        "sha": "9b52fb18e184edc307ce33f8bf4cdf148dedf1f2"
+        "sha": "798f8138c976599aa91075f3fc0bb481c3818848"
       },
       "homepage": "https://github.com/atlassian/atlassian-mcp-server"
     },
@@ -198,7 +198,7 @@
         "source": "url",
         "url": "https://github.com/BrainBlend-AI/atomic-agents.git",
         "path": "claude-plugin/atomic-agents",
-        "sha": "f849087b26bbb6fb5e63acb60f2b566ce874aaa7"
+        "sha": "33d2ec94f42d4a65393a336e35edf21ee5700303"
       },
       "homepage": "https://github.com/BrainBlend-AI/atomic-agents",
       "tags": [
@@ -217,7 +217,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "1c32754fcb934109451435ecd4a6ea9b068f0937"
+        "sha": "7af36e12061ac5643bf420f35aa3fd8daf958292"
       },
       "homepage": "https://auth0.com/docs/quickstart/agent-skills"
     },
@@ -233,7 +233,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-agents",
         "ref": "main",
-        "sha": "14780bf3440aa1532eadfbb2ff547f58969fcfb2"
+        "sha": "8ea26bdf9c8b3719e6b5488709f4efecde5a0d93"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -246,7 +246,7 @@
         "url": "https://github.com/awslabs/agent-plugins.git",
         "path": "plugins/aws-amplify",
         "ref": "main",
-        "sha": "95381e8bcb92f58a28edb4f83eb7e163c7461a0a"
+        "sha": "adc01133bbd01433dcb2c0f98641f2b85694f92f"
       },
       "homepage": "https://github.com/awslabs/agent-plugins"
     },
@@ -262,7 +262,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-core",
         "ref": "main",
-        "sha": "14780bf3440aa1532eadfbb2ff547f58969fcfb2"
+        "sha": "8ea26bdf9c8b3719e6b5488709f4efecde5a0d93"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -278,7 +278,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-data-analytics",
         "ref": "main",
-        "sha": "14780bf3440aa1532eadfbb2ff547f58969fcfb2"
+        "sha": "8ea26bdf9c8b3719e6b5488709f4efecde5a0d93"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -294,7 +294,7 @@
         "url": "https://github.com/aws-samples/sample-claude-code-plugins-for-startups.git",
         "path": "plugins/aws-dev-toolkit",
         "ref": "main",
-        "sha": "ddea7fdd605b42ed3900374815f358a2d4600db5"
+        "sha": "3360d439a94e59fbf13eb0019eaf5735e4a23d8a"
       },
       "homepage": "https://github.com/aws-samples/sample-claude-code-plugins-for-startups"
     },
